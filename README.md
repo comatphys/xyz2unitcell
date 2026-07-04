@@ -4,9 +4,9 @@ This script is designed to convert molecular dynamics (MD) trajectories generate
 
 # Input Files
 
-Prepare two input files (inp.dat and dump.xyz):
+Please prepare the following two input files:
 
-1. **`inp.dat`**: Some basic information about the size of supercell, number of atomic type, and so on.
-2. **`dump.xyz`**: MD trajectories.
+1. **`inp.dat`**: specifies the supercell size, number of atomic types, and other basic settings;
+2. **`dump.xyz`**: contains the MD trajectory coordinates.
 
-An example, `inp.dat` and `dump.xyz` of Cs3Bi2I6Cl3, is provided with all necessary files.
+We have included a complete example for Cs$_3$Bi$_2$I$_6$Cl$_3$, with inp.dat, dump.xyz, and all supporting files.
