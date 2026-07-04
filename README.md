@@ -9,4 +9,4 @@ Please prepare the following two input files:
 1. **`inp.dat`**: specifies the supercell size, number of atomic types, and other basic settings;
 2. **`dump.xyz`**: contains the MD trajectory coordinates.
 
-We have included a complete example for Cs$_3$Bi$_2$I$_6$Cl$_3$, with inp.dat, dump.xyz, and all supporting files.
+We have included a complete example for Cs<sub>3</sub>Bi<sub>2</sub>I<sub>6</sub>Cl<sub>3</sub>, with inp.dat, dump.xyz, and all supporting files.
